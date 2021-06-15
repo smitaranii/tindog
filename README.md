@@ -1,1 +1,5 @@
-# tindog
+![Screenshot (71)](https://user-images.githubusercontent.com/54846994/122023987-aab31500-cde5-11eb-922f-35dd53b33894.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/54846994/122024005-ae469c00-cde5-11eb-90f9-fecfe1076bc3.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/54846994/122024012-b0105f80-cde5-11eb-866c-489a43aed00f.png)
+![Screenshot (74)](https://user-images.githubusercontent.com/54846994/122024023-b1da2300-cde5-11eb-8262-a65c6ab5f67d.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/54846994/122024031-b3a3e680-cde5-11eb-810b-6ea2a78b0925.png)
